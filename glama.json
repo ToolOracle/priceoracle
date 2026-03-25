@@ -1,0 +1,1 @@
+{"name": "PriceOracle", "description": "Price comparison \u2014 7 MCP tools for Idealo, Amazon, price history, barcode", "category": "business", "tags": ["price", "comparison", "amazon", "ecommerce"], "tools": 7, "transport": "streamable-http", "endpoint": "https://tooloracle.io/price/mcp/"}
