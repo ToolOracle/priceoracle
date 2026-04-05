@@ -1,0 +1,5 @@
+name: PriceOracle
+description: Price comparison & tracking — 10 tools
+endpoint: https://tooloracle.io/price/mcp/
+transport: streamable-http
+license: MIT
